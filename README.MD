@@ -37,3 +37,11 @@ It defines all assistant capabilities, workflows, and language-handling rules to
 
 ## 🏗️ Repository Structure
 
+You can view or download the complete JobApply-DE specification below:
+
+- 📘 **[JobApply-DE Specification – Markdown](./JobApply-DE_Spec_v1.0.md)**  
+  *(Editable source file with all assistant logic and structure.)*
+
+- 📄 **[JobApply-DE Specification – PDF](./JobApply-DE_Spec_v1.0.pdf)**  
+  *(Formatted, teal-accented professional version for sharing.)*
+
